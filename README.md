@@ -4,7 +4,7 @@ Mini-compilateur écrit en **Java** qui réalise l'**analyse lexicale** et l'**a
 
 Projet du module *Compilation* — 3ème année Ingénieur, Département d'Informatique, Université A/MIRA de Béjaïa (année universitaire 2025-2026).
 
-📄 **Rapport du projet** : [Compte_Rendu-Compilation.docx](docs/Compte_Rendu-Compilation.docx) (à consulter pour le détail de la conception, de la grammaire et des tests).
+📄 **Rapport du projet** : [Compte_Rendu-Compilation.pdf](docs/Compte_Rendu-Compilation.pdf) (à consulter pour le détail de la conception, de la grammaire et des tests).
 
 ## Fonctionnalités
 
